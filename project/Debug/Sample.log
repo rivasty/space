@@ -1,0 +1,76 @@
+﻿  sample.cpp
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(311,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(351,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(346,22): warning C4101: 'p2': unreferenced local variable
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(345,9): warning C4101: 'd': unreferenced local variable
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(362,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(364,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(365,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(397,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(403,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(404,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(412,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(417,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(419,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(427,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(432,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(433,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(454,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(455,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(456,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(546,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(559,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(549,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(572,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(562,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(586,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(576,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(599,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(589,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(612,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(602,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(625,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(615,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(639,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(652,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(642,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(665,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(655,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(680,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(670,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(864,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(928,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(928,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(928,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1012,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1012,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1012,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1108,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1748,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1752,47): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1756,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1760,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1764,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(1768,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2371,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2372,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2373,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2376,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2377,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2378,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2388,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2389,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2393,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2394,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2596,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2599,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2602,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2620,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2623,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2626,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2639,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2643,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2647,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\sample.cpp(2819,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Prushka\Desktop\cs-local\rivast-Project FP - Star System\.\Debug\Sample.exe

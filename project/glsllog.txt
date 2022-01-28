@@ -1,0 +1,6 @@
+
+Fragment shader failed to compile with the following errors:
+ERROR: 0:37: error(#143) Undeclared identifier: diffuse
+ERROR: error(#273) 1 compilation errors.  No code generated
+
+
